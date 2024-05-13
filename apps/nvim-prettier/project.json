@@ -1,0 +1,9 @@
+{
+  "name": "nvim-prettier",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nvim-prettier/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nvim-prettier --web",
+  "targets": {}
+}
